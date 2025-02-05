@@ -33,8 +33,8 @@
 
 ## Career & Branding
 
-23. **[Build Your Brand - Technical Portfolio](LINK_TO_REPO)**
-24. **[Build Your Brand - Preparing to Enter the Job Market](LINK_TO_REPO)**
+23. **[Build Your Brand - Technical Portfolio](https://github.com/GowerCampbell/Build-Your-Technical-Portfolio)**
+24. **[Build Your Brand - Preparing to Enter the Job Market](https://github.com/GowerCampbell/Job-Search-Toolkit)**
 25. **[Build Your Brand - The Job Search](LINK_TO_REPO)**
 26. **[Build Your Brand - Getting Interview Fit](LINK_TO_REPO)**
 
