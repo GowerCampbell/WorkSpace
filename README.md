@@ -29,6 +29,6 @@ A structured learning path covering various domains, including programming, clou
 
 - **React-Component-Libary/**
 - A collection of reusable, customizable UI components built with React for scalable web applications [Here](Mini-Projects/React-Component-Libary/INDEX.md)
-- **AWS-Certification-Notes/**: Study materials for AWS certifications.
-- **Blog-Posts/**: Technical write-ups and reflections on learning experiences. 
+- **AWS-Certification-Notes/**: Study materials for AWS certifications. [Here](Learning-Journey/AWS-Certification-Notes/README.md)
+- **Blog-Posts/**: Technical write-ups and reflections on learning experiences. [Here](Learning-Journey/Blog-Posts/README.md)
 
