@@ -7,7 +7,7 @@ A collection of projects and code contributions demonstrating technical expertis
 
 - **Mini-Projects/**: Small-scale projects showcasing problem-solving abilities.
   - *Data-Analysis-Script/*: Scripts and notebooks for data manipulation and visualization.
-  - *React-Component-Library/*: A collection of reusable React components.
+  - *React-Component-Library/*: A collection of reusable React components. [Here](Mini-Projects/React-Component-Library/INDEX.md)
 - **Open-Source-Contributions-Guide/**: Contributions to open-source projects. [Link Here](Open-Source-Contributions/Open-Source-Contributions/Open-Source-Guide.md)
 - **Code-Snippets/**: Useful code snippets for quick reference. [Link Here](Code-Snippets/My-Code-Snippet.md)
 
@@ -25,8 +25,7 @@ A structured learning path covering various domains, including programming, clou
     7. **[IO Operations] [Link Here](https://github.com/GowerCampbell/IO-Operations)**
     8. **[OOP - Classes] [Link Here](https://github.com/GowerCampbell/OOP-Classes)**
     9. **[OOP - Inheritance] [Link Here](https://github.com/GowerCampbell/OOP-Inheritance)**
-
-- **React-Component-Library/**: A collection of reusable, customizable UI components built with React for scalable web applications. [Here](Mini-Projects/React-Component-Library/INDEX.md)
+---
 - **AWS-Certification-Notes/**: Study materials for AWS certifications. [Here](Learning-Journey/AWS-Certification-Notes/README.md)
 - **Blog-Posts/**: Technical write-ups and reflections on learning experiences. [Here](Learning-Journey/Blog-Posts/README.md)
 
