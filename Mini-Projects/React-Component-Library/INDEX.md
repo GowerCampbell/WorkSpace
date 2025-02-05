@@ -39,10 +39,10 @@ export default App;
 
 ## Available Components
 
-- **Button**: A customizable button component.
-- **Card**: A card component for displaying content in a structured format.
-- **Modal**: A component for creating modals or dialogs.
-- **Input**: A styled input component for forms.
+- **Button**: A customizable button component. [Here](Button.md)
+- **Card**: A card component for displaying content in a structured format. [Here](Card.md)
+- **Modal**: A component for creating modals or dialogs. [Here](Modal.md)
+- **Input**: A styled input component for forms. [Here](Input.md)
 
 ## Props
 
