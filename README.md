@@ -16,7 +16,6 @@ A collection of projects and code contributions demonstrating technical expertis
 A structured learning path covering various domains, including programming, cloud computing, and containerization.
 
 - **Python-Learning-Path/**: A guided roadmap with exercises, projects, and notes.
-## Core Topics
 
 1. **[Pre-Assessment MCQ] [Link Here](https://github.com/GowerCampbell/Pre-Assessment-MCQ)**
 2. **[Getting Started with Your Bootcamp] [Link Here](https://github.com/GowerCampbell/Getting-Started-With-Bootcamp)**
@@ -27,10 +26,6 @@ A structured learning path covering various domains, including programming, clou
 7. **[IO Operations] [Link Here](https://github.com/GowerCampbell/IO-Operations)**
 8. **[OOP - Classes] [Link Here](https://github.com/GowerCampbell/OOP-Classes)**
 9. **[OOP - Inheritance] [Link Here](https://github.com/GowerCampbell/OOP-Inheritance)**
-
-
-
-
 
 
 - **AWS-Certification-Notes/**: Study materials for AWS certifications.
