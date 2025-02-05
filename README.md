@@ -8,8 +8,8 @@ A collection of projects and code contributions demonstrating technical expertis
 - **Mini-Projects/**: Small-scale projects showcasing problem-solving abilities.
   - *Data-Analysis-Script/*: Scripts and notebooks for data manipulation and visualization.
   - *React-Component-Library/*: A collection of reusable React components.
-- **Open-Source-Contributions/**: Contributions to open-source projects.
-- **Code-Snippets/**: Useful code snippets for quick reference.
+- **Open-Source-Contributions-Guide/**: Contributions to open-source projects. [Link Here](Open-Source-Contributions/Open-Source-Contributions/Open-Source-Guide.md)
+- **Code-Snippets/**: Useful code snippets for quick reference. [Link Here](Code-Snippets/My-Code-Snippet.md)
 
 ## 📚 Learning Journey
 A structured learning path covering various domains, including programming, cloud computing, and containerization.
