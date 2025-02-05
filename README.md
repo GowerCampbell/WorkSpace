@@ -27,7 +27,7 @@ A structured learning path covering various domains, including programming, clou
 8. **[OOP - Classes] [Link Here](https://github.com/GowerCampbell/OOP-Classes)**
 9. **[OOP - Inheritance] [Link Here](https://github.com/GowerCampbell/OOP-Inheritance)**
 
-- **React-Component-Libary/** A collection of reusable, customizable UI components built with React for scalable and maintainable web applications.
+- **React-Component-Libary/** A collection of reusable, customizable UI components built with React for scalable web applications [Here](Mini-Projects/React-Component-Libary/INDEX.md)
 - **AWS-Certification-Notes/**: Study materials for AWS certifications.
-- **Blog-Posts/**: Technical write-ups and reflections on learning experiences.
+- **Blog-Posts/**: Technical write-ups and reflections on learning experiences. 
 
