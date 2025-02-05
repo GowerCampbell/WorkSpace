@@ -1,6 +1,4 @@
-Sure! Here's a `README.md` template for your GitHub repository. This file will help explain the purpose of your project, guide users on how to set it up, and explain how to run it.
 
-```markdown
 # Web Scraping LinkedIn Posts
 
 This project automates the process of scraping LinkedIn posts and saving them into a markdown file. The script is designed to run automatically using GitHub Actions, which fetches the posts from a specified source and stores them in a structured markdown format.
