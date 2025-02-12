@@ -27,6 +27,7 @@ A structured learning path covering various domains, including programming, clou
     8. **[OOP - Classes] [Link Here](https://github.com/GowerCampbell/OOP-Classes)**
 
 **Advanced**
+
     10. **[OOP - Inheritance] [Link Here](https://github.com/GowerCampbell/OOP-Inheritance)**
 ---
 - **AWS-Certification-Notes/**: Study materials for AWS certifications. [Here](Learning-Journey/AWS-Certification-Notes/README.md)
