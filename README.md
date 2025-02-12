@@ -5,6 +5,17 @@ Welcome to my **Workspace**! This repository is a centralized hub where I docume
 
 ---
 
+## 🚀 Project Space  
+Here are two featured projects that highlight my coding skills and problem-solving abilities:
+
+1. **[Time-Based Greeting](https://github.com/GowerCampbell/Time-Based-Greeting)**  
+   A Python application that greets the user based on the current time of day, showcasing basic time manipulation and conditional logic.
+
+2. **[Library System](https://github.com/GowerCampbell/library-system)**  
+   A simple library management system using a basic database structure, demonstrating CRUD operations and database interaction with **Python**.
+
+---
+
 ## 🛠 Technical Skills Showcase
 
 A collection of projects and contributions that demonstrate my technical expertise.
