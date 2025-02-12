@@ -16,6 +16,7 @@ A structured learning path covering various domains, including programming, clou
 
 - **Python-Learning-Path/**: A guided roadmap with exercises, projects, and notes.
 
+**Fundamentals**
     1. **[Pre-Assessment MCQ] [Link Here](https://github.com/GowerCampbell/Pre-Assessment-MCQ)**
     2. **[Getting Started with Your Bootcamp] [Link Here](https://github.com/GowerCampbell/Getting-Started-With-Bootcamp)**
     3. **[Data Types and Conditional Statements] [Link Here](https://github.com/GowerCampbell/Data-Types-And-Conditional-Statements)**
@@ -24,7 +25,9 @@ A structured learning path covering various domains, including programming, clou
     6. **[Handling Strings, Lists, and Dictionaries] [Link Here](https://github.com/GowerCampbell/Strings-Lists-Dictionaries)**
     7. **[IO Operations] [Link Here](https://github.com/GowerCampbell/IO-Operations)**
     8. **[OOP - Classes] [Link Here](https://github.com/GowerCampbell/OOP-Classes)**
-    9. **[OOP - Inheritance] [Link Here](https://github.com/GowerCampbell/OOP-Inheritance)**
+
+**Advanced**
+    10. **[OOP - Inheritance] [Link Here](https://github.com/GowerCampbell/OOP-Inheritance)**
 ---
 - **AWS-Certification-Notes/**: Study materials for AWS certifications. [Here](Learning-Journey/AWS-Certification-Notes/README.md)
 - **Blog-Posts/**: Technical write-ups and reflections on learning experiences. [Here](Learning-Journey/Blog-Posts/README.md)
