@@ -45,8 +45,6 @@ A structured path documenting my continuous learning in programming, cloud compu
 6. **[Handling Strings, Lists, and Dictionaries](https://github.com/GowerCampbell/Strings-Lists-Dictionaries)**
 7. **[I/O Operations](https://github.com/GowerCampbell/IO-Operations)**
 8. **[OOP - Classes](https://github.com/GowerCampbell/OOP-Classes)**
-
-**Advanced**
 9. **[OOP - Inheritance](https://github.com/GowerCampbell/OOP-Inheritance)**
 
 ---
