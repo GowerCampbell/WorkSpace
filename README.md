@@ -1,5 +1,5 @@
 
-# 🚀 Workspace Repository Structure
+# 🚀 Workspace Repository
 
 Welcome to my **Workspace**! This repository is a centralized hub where I document my learning resources, projects, open-source contributions, and code snippets. It is designed for easy access to various aspects of my technical development and growth.
 
