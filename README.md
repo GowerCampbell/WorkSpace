@@ -4,8 +4,15 @@
 Welcome to my **Workspace**! This repository is a centralized hub where I document my learning resources, projects, open-source contributions, and code snippets. It is designed for easy access to various aspects of my technical development and growth.
 
 ---
+## 📝 Major-Projects
 
-## 🚀 Project Space  
+-- **[StickyNotes](https://github.com/GowerCampbell/MyCodingTask_StickyNote)**--  
+   A simple web application built with Django, allowing users to create, edit, and delete sticky notes. Features a clean interface and persistent 
+   storage using Django’s ORM. Perfect for quick note-taking and task tracking.
+
+---
+
+## 🚀 Mini-Project Space  
 Here are two featured projects that highlight my coding skills and problem-solving abilities:
 
 1. **[Time-Based Greeting](https://github.com/GowerCampbell/Time-Based-Greeting)**  
